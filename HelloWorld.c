@@ -1,8 +1,8 @@
 #include <stdio.h>
-// •W€o—Í‚É•¶Í‚ğo—Í‚·‚éƒvƒƒOƒ‰ƒ€iSJIS»ƒ\[ƒXƒR[ƒhj
+// æ¨™æº–å‡ºåŠ›ã«æ–‡ç« ã‚’å‡ºåŠ›ã™ã‚‹ãƒ—ãƒ­ã‚°ãƒ©ãƒ ï¼ˆSJISè£½ã‚½ãƒ¼ã‚¹ã‚³ãƒ¼ãƒ‰ï¼‰
 int main()
 {
-    // •W€o—Í‚É Hello World ‚Æo—Í‚·‚éŠÖ”
+    // æ¨™æº–å‡ºåŠ›ã« Hello World ã¨å‡ºåŠ›ã™ã‚‹é–¢æ•°asdasddsa
     printf("Hello World!");
-    return 0; // I—¹‚·‚é
+    return 0; // çµ‚äº†ã™ã‚‹
 }
