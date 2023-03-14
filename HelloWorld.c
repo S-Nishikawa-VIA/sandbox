@@ -1,8 +1,8 @@
 #include <stdio.h>
-// �W���o�͂ɕ��͂��o�͂���v���O�����iSJIS���\�[�X�R�[�h�j
+// 標準出力に文章を出力するプログラム（SJIS製ソースコード）
 int main()
 {
-    // �W���o�͂� Hello World �Əo�͂���֐�
+    // 標準出力に Hello World と出力する関数asdasd
     printf("Hello World!");
-    return 0; // �I������
+    return 0; // 終了する
 }
